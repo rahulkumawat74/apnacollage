@@ -1,2 +1,4 @@
 # apnacollage
-This is my first repo author - rahul kumawat
+This is my first repo
+<br>
+author - rahul kumawat
